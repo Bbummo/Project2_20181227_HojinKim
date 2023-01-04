@@ -1,5 +1,4 @@
 Project 2: A Solar System, A Clock, A Windmill
-- Translation/Rotation of Pivot/Anchor
  
 - Subject : Introduction to Visual Media Programming
 - Professor : Yongduek, Seo
